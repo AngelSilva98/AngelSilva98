@@ -4,8 +4,8 @@
 Soy un desarrollador web Full Stack con experiencia en... 
 
 ## Habilidades
-- Front-end: ReactJS, React Redux, React CSS, JavaScript
-- Back-end: Node.js, SQL, Sequelize, Express, MongoDB, Firebase
+- Front-end: ReactJS, JavaScript
+- Back-end: Node.js, SQL, MongoDB
 - Metodologías ágiles, GIT, estructuras de datos y algoritmos
 
 ## Contacto
@@ -16,6 +16,6 @@ Soy un desarrollador web Full Stack con experiencia en...
 Me dirijo a empresas y agencias digitales...
 
 ## Tecnologías
-- HTML | CSS | JavaScript | ReactJS | Redux | NodeJS | Express
-- NoSQL | SQL | Git | React Native | Firebase | Redux | GitHub
+- HTML | CSS | JavaScript | ReactJS | NodeJS | Express
+- NoSQL | SQL | Git | GitHub
 
